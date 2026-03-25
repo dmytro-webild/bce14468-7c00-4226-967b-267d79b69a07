@@ -15,16 +15,16 @@ import { Facebook, Instagram, Linkedin } from "lucide-react";
 export default function LandingPage() {
   return (
     <ThemeProvider
-        defaultButtonVariant="text-shift"
-        defaultTextAnimation="background-highlight"
+        defaultButtonVariant="directional-hover"
+        defaultTextAnimation="reveal-blur"
         borderRadius="soft"
-        contentWidth="compact"
-        sizing="largeSmall"
-        background="circleGradient"
-        cardStyle="gradient-bordered"
-        primaryButtonStyle="primary-glow"
-        secondaryButtonStyle="solid"
-        headingFontWeight="semibold"
+        contentWidth="mediumLarge"
+        sizing="largeSizeMediumTitles"
+        background="aurora"
+        cardStyle="glass-elevated"
+        primaryButtonStyle="radial-glow"
+        secondaryButtonStyle="glass"
+        headingFontWeight="bold"
     >
       <ReactLenis root>
   <div id="nav" data-section="nav">
@@ -175,17 +175,17 @@ export default function LandingPage() {
 
 
 
-          description: "Experience",          value: "15+"},
+          label: "Experience",          value: "15+"},
         {
 
 
 
-          description: "Projects",          value: "250+"},
+          label: "Projects",          value: "250+"},
         {
 
 
 
-          description: "Satisfaction",          value: "98%"},
+          label: "Satisfaction",          value: "98%"},
       ]}
       title="Client Success Stories"
       description="Hear directly from our delighted clients about their experiences with Art Scene Contracting and our commitment to exceptional interior work."
@@ -197,7 +197,7 @@ export default function LandingPage() {
       <ContactSplit
       useInvertedBackground={false}
       background={{
-        variant: "radial-gradient"}}
+        variant: "rotated-rays-animated-grid"}}
       tag="Get in Touch"
       title="Ready to Start Your Project?"
       description="Contact Art Scene Contracting today for a consultation. Our team is eager to discuss your interior design and gypsum work needs. Let's create something beautiful together."
