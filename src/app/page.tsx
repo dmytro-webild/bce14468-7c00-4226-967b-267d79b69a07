@@ -264,21 +264,21 @@ export default function LandingPage() {
 
 
 
-          description: "Experience",
+          label: "Experience",
           value: "15+",
         },
         {
 
 
 
-          description: "Projects",
+          label: "Projects",
           value: "250+",
         },
         {
 
 
 
-          description: "Satisfaction",
+          label: "Satisfaction",
           value: "98%",
         },
       ]}
