@@ -17,10 +17,10 @@ export default function LandingPage() {
     <ThemeProvider
         defaultButtonVariant="text-shift"
         defaultTextAnimation="background-highlight"
-        borderRadius="rounded"
+        borderRadius="soft"
         contentWidth="compact"
         sizing="largeSmall"
-        background="none"
+        background="circleGradient"
         cardStyle="gradient-bordered"
         primaryButtonStyle="primary-glow"
         secondaryButtonStyle="solid"
@@ -175,20 +175,20 @@ export default function LandingPage() {
 
 
 
-          value: "15+"},
+          description: "Experience",          value: "15+"},
         {
 
 
 
-          value: "250+"},
+          description: "Projects",          value: "250+"},
         {
 
 
 
-          value: "98%"},
+          description: "Satisfaction",          value: "98%"},
       ]}
       title="Client Success Stories"
-      description="Discover what our satisfied clients say about our craftsmanship and dedication, building trust through their authentic experiences."
+      description="Hear directly from our delighted clients about their experiences with Art Scene Contracting and our commitment to exceptional interior work."
       tag="Trusted Reviews"
     />
   </div>
@@ -200,7 +200,7 @@ export default function LandingPage() {
         variant: "radial-gradient"}}
       tag="Get in Touch"
       title="Ready to Start Your Project?"
-      description="Connect with Art Scene Contracting today for a personalized consultation. Our experts are ready to transform your vision into reality, ensuring a seamless and high-quality experience from start to finish."
+      description="Contact Art Scene Contracting today for a consultation. Our team is eager to discuss your interior design and gypsum work needs. Let's create something beautiful together."
       imageSrc="http://img.b2bpic.net/free-photo/room-business-meeting_1098-19955.jpg"
       imageAlt="Modern interior design studio office"
       mediaAnimation="slide-up"
