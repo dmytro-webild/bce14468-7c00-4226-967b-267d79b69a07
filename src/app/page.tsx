@@ -47,7 +47,7 @@ export default function LandingPage() {
 
   <div id="hero" data-section="hero">
       <HeroCarouselLogo
-      logoText="CONSTRUCT & ART "
+      logoText="ART SCENE CONTRACTING"
       description="Transforming visions into luxurious realities with unparalleled gypsum and interior finishing."
       buttons={[
         {
@@ -139,14 +139,14 @@ export default function LandingPage() {
       carouselMode="buttons"
       products={[
         {
-          id: "project-1",          name: "Luxury Villa Interior Renovation",          price: "Private Residence",          imageSrc: "http://img.b2bpic.net/free-photo/beige-colored-interior-dining-room_114579-2540.jpg",          imageAlt: "Interior of a luxury villa with high-end gypsum finishes"},
+          id: "project-1",          name: "Wall decoration",          price: "Private Residence",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BQVudGPa4d9iBWNpwGmebUhcKN/uploaded-1774434474593-fdqexe8n.jpg",          imageAlt: "Interior of a luxury villa with high-end gypsum finishes"},
         {
-          id: "project-2",          name: "Modern Corporate Office Fit-out",          price: "Commercial Space",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-black-dress-man-white-shirt_1153-3648.jpg",          imageAlt: "Sleek and professional modern office interior with gypsum elements"},
+          id: "project-2",          name: "Shop ",          price: "Commercial Space",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BQVudGPa4d9iBWNpwGmebUhcKN/uploaded-1774434505196-s8md3qnl.jpg",          imageAlt: "Sleek and professional modern office interior with gypsum elements"},
         {
           id: "project-3",          name: "Elegant Residential Apartment",          price: "Urban Dwelling",          imageSrc: "http://img.b2bpic.net/free-photo/modern-styled-small-entryway_23-2150713049.jpg",          imageAlt: "Interior of an elegant apartment with sophisticated gypsum decor"},
       ]}
       title="Signature Projects: Where Art Meets Engineering"
-      description="Explore our portfolio of meticulously executed projects, demonstrating our dedication to perfection in gypsum and interior finishes. Each project is a testament to our skill and commitment to client satisfaction."
+      description="We specialize in construction, renovation, wall painting, flooring, tiling, and ceiling work. Our team has successfully completed multiple projects including home décor, showrooms, shops, and office spaces, delivering reliable workmanship and quality finishes tailored to each client’s needs."
       tag="Our Portfolio"
     />
   </div>
@@ -158,7 +158,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "Sana Munshi",          role: "Client",          company: "Residential Project",          rating: 5,
+          id: "1",          name: "Bilal Asif",          role: "Client",          company: "Residential Project",          rating: 5,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BQVudGPa4d9iBWNpwGmebUhcKN/uploaded-1774423152138-z8x3zijv.png",          videoAriaLabel: "Testimonial from Sana Munshi"},
         {
           id: "2",          name: "Ahmed Khan",          role: "Property Developer",          company: "Commercial Projects",          rating: 5,
