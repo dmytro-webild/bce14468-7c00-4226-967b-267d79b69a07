@@ -262,21 +262,21 @@ export default function LandingPage() {
       kpiItems={[
         {
 
-          title: "Years of Experience",
+
           subtitle: "Crafting excellence",
           category: "Experience",
           value: "15+",
         },
         {
 
-          title: "Projects Completed",
+
           subtitle: "Delivering dreams",
           category: "Projects",
           value: "250+",
         },
         {
 
-          title: "Client Satisfaction",
+
           subtitle: "Our top priority",
           category: "Satisfaction",
           value: "98%",
