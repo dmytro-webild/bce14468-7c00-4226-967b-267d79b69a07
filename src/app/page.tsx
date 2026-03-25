@@ -264,21 +264,21 @@ export default function LandingPage() {
 
 
 
-          category: "Experience",
+          description: "Experience",
           value: "15+",
         },
         {
 
 
 
-          category: "Projects",
+          description: "Projects",
           value: "250+",
         },
         {
 
 
 
-          category: "Satisfaction",
+          description: "Satisfaction",
           value: "98%",
         },
       ]}
