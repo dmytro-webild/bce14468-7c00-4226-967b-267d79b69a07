@@ -175,17 +175,17 @@ export default function LandingPage() {
 
 
 
-          title: "Experience",          value: "15+"},
+          description: "Experience",          value: "15+"},
         {
 
 
 
-          title: "Projects",          value: "250+"},
+          description: "Projects",          value: "250+"},
         {
 
 
 
-          title: "Satisfaction",          value: "98%"},
+          description: "Satisfaction",          value: "98%"},
       ]}
       title="Client Success Stories"
       description="Discover what our satisfied clients say about our craftsmanship and dedication, building trust through their authentic experiences."
