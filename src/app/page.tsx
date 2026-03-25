@@ -47,7 +47,7 @@ export default function LandingPage() {
 
   <div id="hero" data-section="hero">
       <HeroCarouselLogo
-      logoText="Art Scene"
+      logoText="CONSTRUCT & ART "
       description="Transforming visions into luxurious realities with unparalleled gypsum and interior finishing."
       buttons={[
         {
@@ -159,16 +159,16 @@ export default function LandingPage() {
       testimonials={[
         {
           id: "1",          name: "Sana Munshi",          role: "Client",          company: "Residential Project",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-man-with-backpack_23-2149915917.jpg",          videoAriaLabel: "Testimonial from Sana Munshi"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BQVudGPa4d9iBWNpwGmebUhcKN/uploaded-1774423152138-z8x3zijv.png",          videoAriaLabel: "Testimonial from Sana Munshi"},
         {
           id: "2",          name: "Ahmed Khan",          role: "Property Developer",          company: "Commercial Projects",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-businesswoman_329181-11388.jpg",          videoAriaLabel: "Testimonial from Ahmed Khan"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BQVudGPa4d9iBWNpwGmebUhcKN/uploaded-1774423163380-cx0t06j4.png",          videoAriaLabel: "Testimonial from Ahmed Khan"},
         {
           id: "3",          name: "Fatima Zahra",          role: "Interior Designer",          company: "Design Collective",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1598.jpg",          videoAriaLabel: "Testimonial from Fatima Zahra"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BQVudGPa4d9iBWNpwGmebUhcKN/uploaded-1774423172016-uy5qgi3o.png",          videoAriaLabel: "Testimonial from Fatima Zahra"},
         {
           id: "4",          name: "David Smith",          role: "Homeowner",          company: "Private Residence",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-pretty-lady-with-short-curly-hair-wireless-earphones_574295-1285.jpg",          videoAriaLabel: "Testimonial from David Smith"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BQVudGPa4d9iBWNpwGmebUhcKN/uploaded-1774423181415-exs3lj4m.png",          videoAriaLabel: "Testimonial from David Smith"},
       ]}
       kpiItems={[
         {
