@@ -263,21 +263,21 @@ export default function LandingPage() {
         {
 
 
-          subtitle: "Crafting excellence",
+
           category: "Experience",
           value: "15+",
         },
         {
 
 
-          subtitle: "Delivering dreams",
+
           category: "Projects",
           value: "250+",
         },
         {
 
 
-          subtitle: "Our top priority",
+
           category: "Satisfaction",
           value: "98%",
         },
